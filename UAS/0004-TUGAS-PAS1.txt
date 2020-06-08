@@ -1,0 +1,37 @@
+Script started on Tue 09 Jun 2020 12:34:07 AM WIB
+muhammad.zakiy@badak:~/UAS$ PS1="$ "
+$ echo $GitHubUser
+zakiysaputra
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200609-003412-0697-UAS/>
+$ PS1="\$(eval \$PSTAMP)"
+200609-003412-0697-UAS/> echo -e $CEKSAYA
+zakiysaputra ZCZCSCRIPTSTART 200606-203347 zakiysaputra
+zakiysaputra zakiysaputra 200606-203352-7644-muhammad.zakiy/ 200606-203352 SEQOK SUMOK 764419e2
+zakiysaputra zakiysaputra 200606-203355-4685-muhammad.zakiy/ 200606-203355 SEQOK SUMOK 46859ebc
+zakiysaputra zakiysaputra 200606-203357-dd00-muhammad.zakiy/ 200606-203357 SEQOK SUMOK dd00dfe5
+zakiysaputra zakiysaputra 200606-203403-b9dc-muhammad.zakiy/ 200606-203403 SEQOK SUMOK b9dc76b9
+zakiysaputra ZCZCSCRIPTSTOP 200606-203410 SEQOK
+
+200609-003412-0697-UAS/> echo -e $CEKSEBELA1
+zakiysaputra ZCZCSCRIPTSTART 200603-171339 zxrsvy
+zakiysaputra zxrsvy 200603-171408-55e3-shella.gabriella/ 200603-171408 SEQOK SUMOK 55e353ce
+zakiysaputra zxrsvy 200603-171413-7dd2-shella.gabriella/ 200603-171413 SEQOK SUMOK 7dd2967b
+zakiysaputra zxrsvy 200603-171517-f049-shella.gabriella/ 200603-171517 SEQOK SUMOK f049034f
+zakiysaputra zxrsvy 200603-171536-9a3a-shella.gabriella/ 200603-171536 SEQOK SUMOK 9a3a9266
+zakiysaputra ZCZCSCRIPTSTOP 200603-171543 SEQOK
+
+200609-003412-0697-UAS/> echo -e $CEKSEBELA2
+zakiysaputra ZCZCSCRIPTSTART 200608-232753 109119
+zakiysaputra 109119 200608-232813-f2ab-ryan.karyadiputera/ 200608-232813 SEQOK SUMOK f2ab2b53
+zakiysaputra 109119 200608-232820-582e-ryan.karyadiputera/ 200608-232813 SEQOK SUMOK 582e4e50
+zakiysaputra 109119 200608-232830-5b28-ryan.karyadiputera/ 200608-232830 SEQOK SUMOK 5b28aeb4
+zakiysaputra 109119 200608-232839-99ad-ryan.karyadiputera/ 200608-232839 SEQOK SUMOK 99ad954e
+zakiysaputra ZCZCSCRIPTSTOP 200608-232856 SEQOK
+
+200609-003412-0697-UAS/> exit
+exit
+
+Script done on Tue 09 Jun 2020 12:34:12 AM WIB
