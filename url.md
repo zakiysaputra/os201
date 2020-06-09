@@ -10,7 +10,7 @@ permalink: /URLs/
 - [Kanal Youtube Pak Anwar](https://www.youtube.com/channel/UCi3sVI10RtRaVWuq1SOVaSg)
 - [Kanal Youtube Pak Grafika](https://www.youtube.com/user/31graf)
 - [Operating System Concepts (Silberschatz et.al.)](https://codex.cs.yale.edu/avi/os-book/)
-- [GNU Bash, Brief Introduction](https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+- [GNU Bash, Brief Introduction](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 - [BASH](https://ryanstutorials.net/bash-scripting-tutorial/)
 
 

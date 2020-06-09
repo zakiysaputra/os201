@@ -1,6 +1,6 @@
 # Bonjour, *Madame/Monsieur*. Welcome to [Zakiy's](https://github.com/zakiysaputra) OS201 Page!
 
-Laman Utama berisi penjelasan siapa, apa, mengapa, dst. web tersebut.
+
 ### "'Zakiy'? Who's that?"
 
 - Panggilan dari Muhammad Zakiy Saputra!
