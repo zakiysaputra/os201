@@ -11,8 +11,7 @@ Laman Utama berisi penjelasan siapa, apa, mengapa, dst. web tersebut.
 ### "Uhm... What's this page about again?"
 
 Halaman ini merupakan *Github Pages* singkat yang saya buat mengenai mata kuliah Sistem Operasi di Fasilkom UI dengan dosen legendaris Pak RMS
-sebagai peserta kelas Sistem Operasi Fasilkom UI, periode genap 2019/2020. Tulisan yang saya sampaikan pada *Github Pages* ini merupakan
-pandangan saya pribadi dan tidak mewakilkan ide seluruh kelas atau institusi yang saya cantum.
+sebagai peserta kelas Sistem Operasi Fasilkom UI, periode genap 2019/2020.
 
 
 ### "Why do you make this page?"
@@ -21,7 +20,7 @@ Sebagai tugas untuk UAS mata kuliah yang bersangkutan. Selain alasan tersebut, s
 singkat tentang kelas ini sih... namun halaman tersebut dihapus untuk memberikan ruang ke halaman ini. *Snippet* halaman lama tersebut dapat dilihat di [sini](https://github.com/zakiysaputra/os201/commit/b4b74dd6535510d5dc09155b68b7618004f7f6f1).
 
 
-### "OS sounds fun! Is there any helpful materials you can share me to learn OS?"
+### "OS sounds fun! Is there any materials you can share me to learn OS?"
 
 Tentu saja! Informasi tersebut tersedia untuk diakses dalam tautan berikut:
 - [Kumpulan URL **penting** mengenai OS](URLs/)
@@ -35,14 +34,10 @@ Tentu saja! Informasi tersebut tersedia untuk diakses dalam tautan berikut:
 
 - [X] Ambil kelas ini
 - [X] Belajar tentang OS!
-- [X] Bersenang-senang di kelas ini dengan teman-teman dan Dosen yang melegenda
+- [X] Bersenang-senang di kelas ini dengan teman-teman dan Dosen tercinta
 - [ ] Lulus kelas ini (Jangan mau kalah sama kambing!)
 
 
-
-Mengutip dosen tercinta Pak RMS, izinkan saya mengakhiri halaman ini dengan:
-
-> Jolan Tru! -RMS
 
 
 ### Jolan Tru!

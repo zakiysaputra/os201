@@ -13,20 +13,19 @@ permalink: /URLs/
 - [GNU Bash, Brief Introduction](https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 - [BASH](https://ryanstutorials.net/bash-scripting-tutorial/)
 
-### Bonus
 
+### Bonus
 
 - [Markdown Tutorial for Github Pages](https://guides.github.com/features/mastering-markdown/)
 
 
-<img src="kambing.png" width="512">
+### Motivasi
+
+<img src="https://github.com/zakiysaputra/os201/blob/master/kambing.png?raw=true" width="512">
 ###### Ayo belajar! jangan mau dapet C seperti kambing!!
 ###### Image copyright: Pak RMS
 
 
-Mengutip dosen tercinta Pak RMS, izinkan saya mengakhiri halaman ini dengan:
-
-> Jolan Tru! -RMS
 
 
 ### Jolan Tru!
