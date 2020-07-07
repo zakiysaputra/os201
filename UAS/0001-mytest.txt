@@ -5,7 +5,7 @@ zakiysaputra
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200606-203352-7644-muhammad.zakiy/>
+200606-203352-7644-muhammad.zakiy/> 
 $ PS1="\$(eval \$PSTAMP)"
 200606-203355-4685-muhammad.zakiy/> date
 Sat Jun  6 20:33:57 WIB 2020
